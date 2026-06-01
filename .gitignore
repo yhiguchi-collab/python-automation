@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# 仮想環境
+.venv/
+venv/
+env/
+
+# 環境変数・認証情報
+.env
+*.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# ログ・一時ファイル
+*.log
+*.tmp
