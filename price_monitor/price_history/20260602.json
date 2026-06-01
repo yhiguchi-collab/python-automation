@@ -1,0 +1,32 @@
+{
+  "ノートPC-A（競合A社）": {
+    "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+    "category": "PC",
+    "price": 51.77
+  },
+  "ノートPC-B（競合B社）": {
+    "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+    "category": "PC",
+    "price": 53.74
+  },
+  "ノートPC-C（競合C社）": {
+    "url": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+    "category": "PC",
+    "price": 50.1
+  },
+  "スマホ-X（競合A社）": {
+    "url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+    "category": "スマートフォン",
+    "price": 47.82
+  },
+  "スマホ-Y（競合B社）": {
+    "url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+    "category": "スマートフォン",
+    "price": 54.23
+  },
+  "スマホ-Z（競合C社）": {
+    "url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+    "category": "スマートフォン",
+    "price": 22.65
+  }
+}

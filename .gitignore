@@ -26,3 +26,6 @@ Thumbs.db
 # ログ・一時ファイル
 *.log
 *.tmp
+
+# 競合価格モニタリング
+price_monitor/.env
